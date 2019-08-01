@@ -1,2 +1,9 @@
 # aws-ecr-ecs
-Terraform repo that creates a fully scalable ECR ECS infra.
+- Terraform repo for the creation of ECS and ECR infrastructure.
+- Fully scalable production ready
+- Must change security groups **especially the SSH permissions**
+
+# how to use
+- terraform init
+- terraform plan
+- terraform apply
